@@ -1,0 +1,9 @@
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Mainform = 93, 129, 904, 679, C, 0, 0, 0, 0, C
+PreviousQueryForm = 49, 376, 978, 728, , 0, 0, 0, 0, C
+RecruiterForm = 93, 129, 914, 679, C, 0, 0, 0, 0, C
+QueryForm = 36, 130, 978, 368, , 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+DE = 93, 129, 540, 679, C, 0, 0, 0, 0, C
+PrintAllReport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+StillAvailableReport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
